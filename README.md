@@ -1,6 +1,6 @@
 # MemoryMaster
 This is a IOS based mobile game. You will flip the tiles and try to match them all. 
-Features:
+# Features:
 - Different difficulty levels.
 - Two themes to select from.
 - Statistics page records your best time and win percentage.
